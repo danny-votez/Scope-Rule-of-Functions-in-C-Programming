@@ -13,7 +13,6 @@ int main()
 {
 
 
-int k, sum;         // variable declaration
 int i = 200;        // by default, the scope of a variable is 
                     // local to the function in which it is defined.
 display(i);         // Hence, to use 'i' in display(), it need be passed to it
