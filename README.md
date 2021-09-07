@@ -40,3 +40,4 @@ printf("The Value of k is: %d\n", k);
 
 # Sample Run-time Screen
 
+![image](https://user-images.githubusercontent.com/77758884/132325326-7b6f5324-ae48-4e04-9054-d3be9ac581ec.png)
